@@ -104,3 +104,31 @@ footer a {
     text-decoration: none;
     color: inherit;
 }
+
+
+/** Projects Page **/
+
+.project-container {
+    text-align: center;
+    padding: 1rem 1rem;
+}
+
+.project-container span{
+    color: var(--light-color);
+}
+
+.proj-page-link {
+    text-decoration: none;
+    color: white;
+    padding: 1rem 2rem;
+    border-radius: 2rem;
+    background-color: var(--primary-color);
+}
+
+.proj-page-link-1 {
+    text-decoration: none;
+    color: var(--primary-color);
+    padding: 1rem 2rem;
+    border-radius: 2rem;
+    border: 1px solid var(--primary-color);
+}
