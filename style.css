@@ -71,12 +71,20 @@ section p {
     padding-bottom: 1rem;
 }
 
-section a {
+section .project-link {
     text-decoration: none;
     background-color: var(--primary-color);
     padding: 1rem 2rem;
     border-radius: 2rem;
     color: white;
+}
+
+section .blog-link {
+    text-decoration: none;
+    padding: 1rem 2rem;
+    border-radius: 2rem;
+    border: 1px solid var(--primary-color);
+    color: var(--primary-color);
 }
 
 .wc {
