@@ -131,3 +131,7 @@ footer a {
   border-radius: 2rem;
   border: 1px solid var(--primary-color);
 }
+
+h2 {
+  color: var(--primary-color);
+}
