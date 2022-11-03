@@ -91,6 +91,8 @@ section .blog-link {
   background-color: var(--white-color);
 }
 
+/** footer section **/
+
 footer {
   background-color: var(--primary-color);
   padding: 2rem 1rem;
