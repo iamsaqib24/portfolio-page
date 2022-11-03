@@ -105,6 +105,10 @@ footer a {
   color: inherit;
 }
 
+footer h2 {
+  color: white;
+}
+
 /** Projects Page **/
 
 .project-container {
